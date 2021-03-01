@@ -1,0 +1,16 @@
+C:\Users\16157\workspace\place-names\csharp\bin\Debug\net5.0\PlaceNames.exe
+C:\Users\16157\workspace\place-names\csharp\bin\Debug\net5.0\PlaceNames.deps.json
+C:\Users\16157\workspace\place-names\csharp\bin\Debug\net5.0\PlaceNames.runtimeconfig.json
+C:\Users\16157\workspace\place-names\csharp\bin\Debug\net5.0\PlaceNames.runtimeconfig.dev.json
+C:\Users\16157\workspace\place-names\csharp\bin\Debug\net5.0\PlaceNames.dll
+C:\Users\16157\workspace\place-names\csharp\bin\Debug\net5.0\ref\PlaceNames.dll
+C:\Users\16157\workspace\place-names\csharp\bin\Debug\net5.0\PlaceNames.pdb
+C:\Users\16157\workspace\place-names\csharp\obj\Debug\net5.0\PlaceNames.csprojAssemblyReference.cache
+C:\Users\16157\workspace\place-names\csharp\obj\Debug\net5.0\PlaceNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16157\workspace\place-names\csharp\obj\Debug\net5.0\PlaceNames.AssemblyInfoInputs.cache
+C:\Users\16157\workspace\place-names\csharp\obj\Debug\net5.0\PlaceNames.AssemblyInfo.cs
+C:\Users\16157\workspace\place-names\csharp\obj\Debug\net5.0\PlaceNames.csproj.CoreCompileInputs.cache
+C:\Users\16157\workspace\place-names\csharp\obj\Debug\net5.0\PlaceNames.dll
+C:\Users\16157\workspace\place-names\csharp\obj\Debug\net5.0\ref\PlaceNames.dll
+C:\Users\16157\workspace\place-names\csharp\obj\Debug\net5.0\PlaceNames.pdb
+C:\Users\16157\workspace\place-names\csharp\obj\Debug\net5.0\PlaceNames.genruntimeconfig.cache
